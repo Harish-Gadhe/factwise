@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/factwise/static/css/main.2389758f.css",
+    "main.js": "/factwise/static/js/main.796be54a.js",
+    "static/js/453.6b9eb1cd.chunk.js": "/factwise/static/js/453.6b9eb1cd.chunk.js",
+    "index.html": "/factwise/index.html",
+    "main.2389758f.css.map": "/factwise/static/css/main.2389758f.css.map",
+    "main.796be54a.js.map": "/factwise/static/js/main.796be54a.js.map",
+    "453.6b9eb1cd.chunk.js.map": "/factwise/static/js/453.6b9eb1cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2389758f.css",
+    "static/js/main.796be54a.js"
+  ]
+}
